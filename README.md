@@ -39,10 +39,10 @@ Fryda who is Elon Musk
 
 
 📂 Project Structure
-fryda-voice-assistant/
-│── fryda.py          # Main Python script
-│── README.md         # Documentation
-└── requirements.txt  # Dependencies list (optional)
+  fryda-voice-assistant/
+  │── fryda.py          # Main Python script
+  │── README.md         # Documentation
+  └── requirements.txt  # Dependencies list (optional)
 
 
 🚀 Future Improvements
@@ -50,3 +50,4 @@ fryda-voice-assistant/
     Integrate with OpenAI API for smarter conversations.
     Add weather, news, and reminder functionalities.
     Implement wake-word detection without needing "Fryda" every time.
+
