@@ -30,19 +30,19 @@ Make sure you have PyAudio installed:
 
 
 Example Commands:
-Fryda play Shape of You
-Fryda time
-Fryda date
-Fryda how are you
-Fryda what is your name
-Fryda who is Elon Musk
+  -Fryda play Shape of You
+  -Fryda time
+  -Fryda date
+  -Fryda how are you
+  -Fryda what is your name
+  -Fryda who is Elon Musk
 
 
 📂 Project Structure
   fryda-voice-assistant/
-  │── fryda.py          # Main Python script
-  │── README.md         # Documentation
-  └── requirements.txt  # Dependencies list (optional)
+  -│── fryda.py          # Main Python script
+  -│── README.md         # Documentation
+  -└── requirements.txt  # Dependencies list (optional)
 
 
 🚀 Future Improvements
@@ -50,4 +50,5 @@ Fryda who is Elon Musk
     Integrate with OpenAI API for smarter conversations.
     Add weather, news, and reminder functionalities.
     Implement wake-word detection without needing "Fryda" every time.
+
 
