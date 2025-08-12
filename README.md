@@ -46,10 +46,11 @@ Example Commands:
 
 
 🚀 Future Improvements
-    Add support for more commands.
-    Integrate with OpenAI API for smarter conversations.
-    Add weather, news, and reminder functionalities.
-    Implement wake-word detection without needing "Fryda" every time.
+    - Add support for more commands.
+    - Integrate with OpenAI API for smarter conversations.
+    - Add weather, news, and reminder functionalities.
+    - Implement wake-word detection without needing "Fryda" every time.
+
 
 
 
