@@ -1,0 +1,8 @@
+speechrecognition
+pyttsx3
+pywhatkit
+wikipedia
+pyaudio
+
+
+- Users can install everything in one go by running: `pip install -r requirements.txt`
